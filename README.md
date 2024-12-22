@@ -43,4 +43,9 @@ Ensure you have the following installed:
 
 - The digital clock GUI will open and display the current time and date.
 
+# Screenshot
+
+![Screenshot 2024-12-22 140224](https://github.com/user-attachments/assets/7551cc37-bc89-4810-b5ef-10ceb6fdeb87)
+
+
 
