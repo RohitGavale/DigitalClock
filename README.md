@@ -1,4 +1,4 @@
-# DigitalClock
+# 🕒 DigitalClock
 <br/>
 
 # Introduction
@@ -47,5 +47,5 @@ Ensure you have the following installed:
 
 ![Screenshot 2024-12-22 140224](https://github.com/user-attachments/assets/7551cc37-bc89-4810-b5ef-10ceb6fdeb87)
 
-
-
+<br/>
+If you have any suggestions or issues, feel free to reach out or open an issue on GitHub!
